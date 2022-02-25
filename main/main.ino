@@ -1,3 +1,6 @@
+#define GREEN_PIN 13
+#include "ledFunctions.h"
+
 void setup() {
   // put your setup code here, to run once:
 
