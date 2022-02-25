@@ -1,9 +1,10 @@
 #define GREEN_PIN 13
-#include "ledFunctions.h"
+#include "LightController.h" 
 
-void setup() {
-  // put your setup code here, to run once:
+LightController greenLight(GREEN);
 
+void setup() { 
+  
 }
 
 void loop() {
